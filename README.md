@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @scottborger
-- 👀 I’m interested in financial technology, economic development, and community tables.
-- 🌱 I’m currently learning distributed ledger technology, DeFi, blockchain, and R.
-- 💞️ I’m looking to collaborate on the Breadcoin project.
+- 👀 I’m interested in economics, financial innovations, technological change, community pop-up meals, and setting a common table.
+- 🌱 I’m currently learning distributed ledger technology, DeFi, and R.
+- 💞️ I’m looking to collaborate on the (https://www.breadcoin.org "Breadcoin") project.
 - 📫 How to reach me sborger@breadcoin.org
 
 <!---
